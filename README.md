@@ -29,6 +29,7 @@ This application will evolve in several iterations:
 
 ## 📂 Project Structure (Planned)
 
+```
 weather_calendar_app/
 │
 ├── main.py # Entry point for the application
@@ -41,6 +42,7 @@ weather_calendar_app/
 ├── models/
 │ └── todo_model.py # Manages per-day to-do items
 └── README.md
+```
 
 ---
 
